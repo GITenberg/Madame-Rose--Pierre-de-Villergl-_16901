@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3678
     wikipedia: http://fr.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Achard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16901#Madame-Rose--Pierre-de-Villergl-
 gutenberg_bookshelf:
 - FR Nouvelles
 - FR Littérature
